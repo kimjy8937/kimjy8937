@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/kimjy8937" width="600" height="300"/></a>
+<!-- <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/kimjy8937" width="600" height="300"/></a> -->
 <img src="https://github-readme-stats.vercel.app/api?username=kimjy8937&theme=algolia)" />
 <!--
 **kimjy8937/kimjy8937** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
